@@ -3,11 +3,12 @@ head{
 }
 body {
   margin: 0;
-  background-color: purple;
+  background-color: rgb(230, 107, 230);
   text-align: left;
 }
 h1 {
   font-size: 50px;
   text-align:center;
-  color: red;
+  color: rgba(20, 243, 0, 0.822);
+  background-color: chocolate;
 }
