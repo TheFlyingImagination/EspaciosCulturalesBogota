@@ -2,13 +2,43 @@ head{
 
 }
 body {
-  margin: 0;
+  margin: 10;
   background-color: rgb(230, 107, 230);
   text-align: left;
+  line-height: 150%;
 }
 h1 {
-  font-size: 50px;
+  font-size: 150%;
   text-align:center;
   color: rgba(20, 243, 0, 0.822);
+  font-family: 'Arial Narrow Bold', sans-serif;
   background-color: chocolate;
+}
+
+h2 {
+  font-family:'Arial Narrow Bold', sans-serif;
+
+}
+nav{
+  background-color: cyan;
+  font-family: Impact, Helvetica, sans-serif;
+}
+
+nav, a {
+  display:inline;
+  width:100%;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+  background-color: cyan;
+  font-family: Impact, Helvetica, sans-serif;
+
 }
